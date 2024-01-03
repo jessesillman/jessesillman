@@ -3,7 +3,7 @@
 My name is Jesse and I am a second-year IT-engineer student from Finland. I have gathered some of my programming exercises on here throughout my studies,
 and my aim is to delve deeper in the field of programming and acquire more advanced skills to enhance my expertise. 🖥️
 
- 📫 Contact me:
+ 📫 Contact me:  
  [Email](mailto:jesse.sillman@yahoo.com)  
  [Linkedin](https://www.linkedin.com/in/jesse-sillman-5b6912269/)  
  [Discord](https://discord.gg/nwqQmCJd)  
