@@ -4,9 +4,9 @@ My name is Jesse and I am a second-year IT-engineer student from Finland. I have
 and my aim is to delve deeper in the field of programming and acquire more advanced skills to enhance my expertise. 🖥️
 
  📫 Contact me:
- [Email me](mailto:jesse.sillman@yahoo.com)
- [Linkedin](https://www.linkedin.com/in/jesse-sillman-5b6912269/)
- [Discord](https://discord.gg/nwqQmCJd)
+ [Email](mailto:jesse.sillman@yahoo.com)  
+ [Linkedin](https://www.linkedin.com/in/jesse-sillman-5b6912269/)  
+ [Discord](https://discord.gg/nwqQmCJd)  
 
 
 
